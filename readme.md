@@ -10,6 +10,9 @@ Leeroy is a quite simple Arduino ci-lamp.
 
 Why name it Leeroy? Because we use Jenkins at work. Get it? [Leeeeeroooy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins)
 
+In order to make this usefull you probably have to edit the source code
+and change the URL to the server and the query.
+
 Hardware
 --------
  - [Ethernet Pro] (https://www.sparkfun.com/products/10536) You could just use a Ethernet shield and another Arduino.
